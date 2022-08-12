@@ -16,7 +16,7 @@
   [MIT](https://opensource.org/licenses/MIT)
 
   ## Description
-  [(https://chuckd23.github.io/Homework-Week-9-README-Generator/)
+  https://github.com/chuckd23/HW9-Node.js-Challenge
   (https://github.com/chuckd23/Homework-Week-9-README-Generator)  
 
   ## Installation
