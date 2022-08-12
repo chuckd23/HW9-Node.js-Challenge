@@ -1,38 +1,40 @@
-Homework Week 9 README Generator
-Badges
-License: MIT
+# Homework Week 9 README Generator
+  ## Badges
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Table of Contents
-License
-Description
-Installation
-Usage
-How to Contribute
-Tests
-Questions?
-License
-Read more about MIT here: MIT
+  ## Table of Contents
+  * [License](#license)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [How to Contribute](#how-to-contribute)
+  * [Tests](#tests)
+  * [Questions?](#questions)
 
-Description
-This application is for the UofO Coding Bootcamp. It generates a comprehensive README file based on user input.
-Link to Example Video
-Homework Week 9 README Generator Site
-Homework Week 9 README Generator Repository
+  ## License
+  Read more about MIT here:
+  [MIT](https://opensource.org/licenses/MIT)
 
-Installation
-Clone the repository.
+  ## Description
+  This application is for the UofO Coding Bootcamp. It generates a comprehensive README file based on user input.  
+  [Link to Example Video](https://drive.google.com/file/d/1yvTgNIv3KRAW5JEg1HjI3IrbktsGIz1_/view)  
+  [Homework Week 9 README Generator Site](https://chuckd23/.github.io/Homework-Week-9-README-Generator/)  
+  [Homework Week 9 README Generator Repository](https://github.com/chuckd23/Homework-Week-9-README-Generator)  
 
-Usage
-To use, simply open the index in node and follow the prompts.
+  ## Installation
+  Clone the repository. 
 
-How to Contribute
-Contributor Covenant
-No other requirements for contribution.
+  ## Usage
+  To use, simply open the index in node and follow the prompts. 
 
-Tests
-Simply use the application.
+  ## How to Contribute
+  [Contributor Covenant](https://www.contributor-covenant.org/)  
+  No other requirements for contribution.
 
-Questions?
-Reach me here:
-Charlesdanso12@gmail.com
-chuckd23
+  ## Tests
+  Simply use the application.
+
+  ## Questions?
+  ### Reach me here: 
+  [reidk361](https://github.com/chuckd23)  
+  charlesdanso12@gmail.com
