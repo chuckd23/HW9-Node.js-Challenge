@@ -16,6 +16,7 @@
   [MIT](https://opensource.org/licenses/MIT)
 
   ## Description
+  [Link to Example Video](https://drive.google.com/file/d/1yvTgNIv3KRAW5JEg1HjI3IrbktsGIz1_/view)  
   https://github.com/chuckd23/HW9-Node.js-Challenge
   (https://github.com/chuckd23/Homework-Week-9-README-Generator)  
 
